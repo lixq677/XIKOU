@@ -1,0 +1,15 @@
+//
+//  UIButton+FillColor.h
+//  XiKou
+//
+//  Created by Tony on 2019/6/15.
+//  Copyright © 2019 李笑清. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface UIButton (FillColor)
+
+- (void)setBackgroundColor:(UIColor *)backgroundColor forState:(UIControlState)state;
+
+@end

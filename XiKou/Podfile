@@ -1,0 +1,61 @@
+platform :ios, '8.0'
+
+target 'XiKou' do
+	pod 'AFNetworking'
+	pod 'Masonry'
+	pod 'YYModel'
+	pod 'YYImage'
+	pod 'YYImage/WebP'
+  pod 'YYText'
+	pod 'libextobjc'
+  pod 'LKDBHelper'
+  pod 'WebViewJavascriptBridge'
+  pod 'AFViewShaker'
+  pod 'SDWebImage'
+  pod 'ReactiveObjC'
+  #高德地图
+  pod 'AMapLocation'#定位 SDK
+  pod 'AMapSearch' #搜索服务 SDK
+  
+  #微信开放平台
+  pod 'WechatOpenSDK'
+  
+  #友盟基础库
+  pod 'UMCCommon'
+  #友盟推送库
+  pod 'UMCPush'
+
+  # 集成微信(精简版0.2M)
+  pod 'UMCShare/Social/ReducedWeChat'
+  # 集成支付宝
+  pod 'AlipaySDK-iOS'
+  # 集成新浪微博(精简版1M)a
+  pod 'UMCShare/Social/ReducedSina'
+  #友盟统计
+  pod 'UMCAnalytics'
+  #在线客户美洽
+  pod 'Meiqia'
+  #table下拉刷新，上拉加载
+  pod 'MJRefresh'
+  pod 'SVProgressHUD'
+  pod 'RTRootNavigationController'
+  
+  #切片编程
+  pod 'Aspects'
+  
+  #路由，蘑菇街方案
+  pod 'MGJRouter'
+  
+  pod 'SKUDataFilter'
+  pod 'JXPagingView/Pager'
+  pod 'LYEmptyView'
+  pod 'IQKeyboardManager'
+  pod 'TABAnimated'
+  pod 'YBImageBrowser'
+  
+  pod 'NilSafety'
+  
+  pod 'WMPageController', '~> 2.5.2'
+  
+end
+

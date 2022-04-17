@@ -1,0 +1,1 @@
+../../../TABAnimated/AnimatedDemo/AnimatedDemo/TABAnimated/Model/TABCollectionAnimated.h

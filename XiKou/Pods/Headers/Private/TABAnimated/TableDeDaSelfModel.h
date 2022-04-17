@@ -1,0 +1,1 @@
+../../../TABAnimated/AnimatedDemo/AnimatedDemo/TABAnimated/Manager/TableDeDaSelfModel.h

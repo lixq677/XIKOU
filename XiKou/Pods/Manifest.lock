@@ -1,0 +1,237 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AFViewShaker (0.0.5)
+  - AlipaySDK-iOS (15.5.9)
+  - AMapFoundation (1.5.7)
+  - AMapLocation (2.6.2):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (6.9.0):
+    - AMapFoundation (~> 1.4)
+  - Aspects (1.4.1)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQKeyboardManager (6.4.0)
+  - JXPagingView/Pager (1.1.17)
+  - libextobjc (0.6):
+    - libextobjc/EXTADT (= 0.6)
+    - libextobjc/EXTConcreteProtocol (= 0.6)
+    - libextobjc/EXTKeyPathCoding (= 0.6)
+    - libextobjc/EXTNil (= 0.6)
+    - libextobjc/EXTSafeCategory (= 0.6)
+    - libextobjc/EXTScope (= 0.6)
+    - libextobjc/EXTSelectorChecking (= 0.6)
+    - libextobjc/EXTSynthesize (= 0.6)
+    - "libextobjc/NSInvocation+EXT (= 0.6)"
+    - "libextobjc/NSMethodSignature+EXT (= 0.6)"
+    - libextobjc/RuntimeExtensions (= 0.6)
+    - libextobjc/UmbrellaHeader (= 0.6)
+  - libextobjc/EXTADT (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTConcreteProtocol (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTKeyPathCoding (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTNil (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSafeCategory (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSelectorChecking (0.6):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSynthesize (0.6):
+    - libextobjc/RuntimeExtensions
+  - "libextobjc/NSInvocation+EXT (0.6)":
+    - libextobjc/RuntimeExtensions
+  - "libextobjc/NSMethodSignature+EXT (0.6)":
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.6)
+  - libextobjc/UmbrellaHeader (0.6)
+  - LKDBHelper (2.5.1):
+    - LKDBHelper/standard (= 2.5.1)
+  - LKDBHelper/standard (2.5.1):
+    - FMDB
+  - LYEmptyView (1.2.5)
+  - Masonry (1.1.0)
+  - Meiqia (3.4.9):
+    - Meiqia/MeiqiaSDK (= 3.4.9)
+    - Meiqia/MQChatViewController (= 3.4.9)
+  - Meiqia/MeiqiaSDK (3.4.9)
+  - Meiqia/MQChatViewController (3.4.9):
+    - Meiqia/MeiqiaSDK
+  - MGJRouter (0.10.0)
+  - MJRefresh (3.2.0)
+  - NilSafety (1.0.2):
+    - swizzleMethod
+  - ReactiveObjC (3.1.1)
+  - RTRootNavigationController (0.7.1):
+    - RTRootNavigationController/Core (= 0.7.1)
+  - RTRootNavigationController/Core (0.7.1)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SKUDataFilter (1.0.2)
+  - SVProgressHUD (2.2.5)
+  - swizzleMethod (1.0.0)
+  - TABAnimated (2.1.9)
+  - UMCAnalytics (6.0.5):
+    - UMCCommon
+  - UMCCommon (2.1.1)
+  - UMCPush (3.2.4):
+    - UMCCommon
+  - UMCShare/Core (6.9.6):
+    - UMCCommon
+  - UMCShare/Social/ReducedSina (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - WebViewJavascriptBridge (6.0.3)
+  - WechatOpenSDK (1.8.6)
+  - WMPageController (2.5.2)
+  - YBImageBrowser (3.0.3):
+    - YBImageBrowser/Core (= 3.0.3)
+  - YBImageBrowser/Core (3.0.3):
+    - SDWebImage (~> 5.0.0)
+    - YYImage
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYImage/WebP (1.0.4):
+    - YYImage/Core
+  - YYModel (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AFViewShaker
+  - AlipaySDK-iOS
+  - AMapLocation
+  - AMapSearch
+  - Aspects
+  - IQKeyboardManager
+  - JXPagingView/Pager
+  - libextobjc
+  - LKDBHelper
+  - LYEmptyView
+  - Masonry
+  - Meiqia
+  - MGJRouter
+  - MJRefresh
+  - NilSafety
+  - ReactiveObjC
+  - RTRootNavigationController
+  - SDWebImage
+  - SKUDataFilter
+  - SVProgressHUD
+  - TABAnimated
+  - UMCAnalytics
+  - UMCCommon
+  - UMCPush
+  - UMCShare/Social/ReducedSina
+  - UMCShare/Social/ReducedWeChat
+  - WebViewJavascriptBridge
+  - WechatOpenSDK
+  - WMPageController (~> 2.5.2)
+  - YBImageBrowser
+  - YYImage
+  - YYImage/WebP
+  - YYModel
+  - YYText
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AFViewShaker
+    - AlipaySDK-iOS
+    - AMapFoundation
+    - AMapLocation
+    - AMapSearch
+    - Aspects
+    - FMDB
+    - IQKeyboardManager
+    - JXPagingView
+    - libextobjc
+    - LKDBHelper
+    - LYEmptyView
+    - Masonry
+    - Meiqia
+    - MGJRouter
+    - MJRefresh
+    - NilSafety
+    - ReactiveObjC
+    - RTRootNavigationController
+    - SDWebImage
+    - SKUDataFilter
+    - SVProgressHUD
+    - swizzleMethod
+    - TABAnimated
+    - UMCAnalytics
+    - UMCCommon
+    - UMCPush
+    - UMCShare
+    - WebViewJavascriptBridge
+    - WechatOpenSDK
+    - WMPageController
+    - YBImageBrowser
+    - YYImage
+    - YYModel
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AFViewShaker: fc201fa4c0030e3f4875b9f84ac0763828518b00
+  AlipaySDK-iOS: 1c5283b30977a24acecc0114662697f7dc78f618
+  AMapFoundation: 216d58448c80356434ac4332250a8fdb2f5c4d1e
+  AMapLocation: 89a7e4eb6040d32ba73c77a4966ecc66e46aa7c3
+  AMapSearch: af02822537e55b85a4752e9df5c19e4b9da82031
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQKeyboardManager: fcef267266379c003181fc3592f6bdb8bf4db839
+  JXPagingView: 039e0ad51f5b7f51660493ccc963035f1ea30a97
+  libextobjc: aed8b7d2b07f511c1a7ecaacb33ea03e327c69b7
+  LKDBHelper: 9a276ba51f2e16263d46a9517e16cc9b03472664
+  LYEmptyView: b17adfc2dd9ad2988ecaf7c9606efa916e24c767
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Meiqia: 75776701963217d7bde57a56e65da7b5e1718b3f
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  NilSafety: 003007b8ffe4e2cdfc21abcc6e7dbe819f685e1c
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  RTRootNavigationController: afa6913402be26f8326f7f37fc1550aa67baddcc
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  SKUDataFilter: 2632ea4bf82a8c93d1d71335f18067f04810022e
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  swizzleMethod: 5b27ff0552d12b67637871ad492fe0995950c866
+  TABAnimated: e913a2eb5a1caf3553dcef8e4d9d3f24f0c29b31
+  UMCAnalytics: 045be2cd1ec05aa95ad62405a850757f932e2d59
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  UMCPush: 1edd856027dcf905333effb4040ace5d236a7316
+  UMCShare: e0cef55c0fd6051254c8cda1d0630eb578b27bad
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+  WechatOpenSDK: 368ae03b72ee3ea1328c4f11326fbb5d2721d118
+  WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
+  YBImageBrowser: 536ff4fd2855b3aa8a6e1dde4f7070c714fdc3a5
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 8d08d0f708d022b524ce125c13e2469b8409ae47
+
+COCOAPODS: 1.7.0
